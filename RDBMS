@@ -1,0 +1,9 @@
+A relational database management system (RDBMS) is a collection of programs and capabilities that enable IT teams and others to create, update, administer and otherwise interact with a relational database.
+
+Tables: Rows and Columns
+Tables can have hundreds, thousands, sometimes even millions of rows of data. These rows are often called records.
+Tables can also have many columns of data. Columns are labeled with a descriptive name (say, age for example) and have a specific data type.
+
+What is a Relational Database Management System (RDBMS)::
+A relational database management system (RDBMS) is a program that allows you to create, update, and administer a relational database. 
+Most relational database management systems use the SQL language to access the database.
