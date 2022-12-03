@@ -1,0 +1,28 @@
+SQL : 
+SQL stands for Structured Query Language. It is used for storing and managing data in relational database management system (RDMS).
+It is a standard language for Relational Database System. It enables a user to create, read, update and delete relational databases and tables.
+SQL is a database language designed for the retrieval and management of data in a relational database.
+
+DDL :
+Data Definition Language helps you to define the database structure or schema.
+create,alter,drop,truncate
+
+DML :
+Data Manipulation Language (DML) allows you to modify the database instance by inserting, modifying, and deleting its data. It is responsible for performing all types of data modification in a database.
+There are three basic constructs which allow database program and user to enter data and information are:
+Here are some important DML commands in SQL:
+INSERT
+UPDATE
+DELETE
+
+DCL:
+DCL (Data Control Language) includes commands like GRANT and REVOKE, which are useful to give “rights & permissions.” Other permission controls parameters of the database system.
+Commands that come under DCL:
+
+Grant
+Revoke
+
+TCL :
+Transaction control language or TCL commands deal with the transaction within the database.
+Commit
+This command is used to save all the transactions to the database.
